@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <!-- SprintImprovements: sprint only changes when the player wants it to (no forced sprint, a toggle that survives
+       skills and stuns, Toggle/Hold/Always modes).
+       Everything else comes from Directory.Build.props and Directory.Build.targets in the repo root. -->
+</Project>

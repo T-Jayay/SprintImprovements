@@ -1,0 +1,18 @@
+# Build output
+bin/
+obj/
+dist/
+
+# IDEs and OS files
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Python
+__pycache__/
+.venv/
